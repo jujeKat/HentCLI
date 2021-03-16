@@ -14,12 +14,13 @@ Just download and start the install_windows.bat script! It **does not** require 
 In the likely event of the install script not working do the following:
 
 1. Create a folder named HentCLI in your home directory (for instance: C:/users/juje/HentCLI)
-2. Add the folder to the PATH and PYTHONPATH system (or user) variables
-3. Put all of the files from this repo (except for install_windows.bat, and ofcourse readme.md) into **the HentCLI folder**
-4. Install the dependencies using `pip install timg rule34`
-5. Restart your shell
-6. Enjoy!
-7. Open an issue when it fails
+2. Create a folder named images in that new folder
+3. Add the folder to the PATH and PYTHONPATH system (or user) variables
+4. Put all of the files from this repo (except for install_windows.bat, and ofcourse readme.md) into **the HentCLI folder**
+5. Install the dependencies using `pip install timg rule34`
+6. Restart your shell
+7. Enjoy!
+8. Open an issue when it fails
 
 # Usage
 If you installed it correctly, just write `hentcli (tags)` into your shell!
